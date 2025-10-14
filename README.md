@@ -45,7 +45,7 @@ Example 1:
 Input: pattern = "abba", str = "dog cat cat dog"
 Output: true
 
-Example 2:
+Example 2:zcq
 Input:pattern = "abba", str = "dog cat cat fish"
 Output: false
 
